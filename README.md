@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprameya-c-v&label=Profile%20views&color=0e75b6&style=flat" alt="aprameya-c-v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprameya-c-v" alt="aprameya-c-v" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/aprameyaa_cv" target="blank"><img src="https://img.shields.io/twitter/follow/aprameyaa_cv?logo=twitter&style=for-the-badge" alt="aprameyaa_cv" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Projects**
