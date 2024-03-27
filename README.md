@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aprameya</h1>
-<h3 align="center">A passionate developer from India 🇮🇳 </h3>
+<h3 align="center">I do a lot of stuffs! </h3>
 
 
 
 
 
-- 👨‍💻 I’m currently working on Full Stack and Data Science Projects
+- 👨‍💻 I’m currently working on Products,Analytics reports, Designs and lot more
 
 - 📑 Check out my resume here - [My Resume]()
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Aprameya-C-V)
 
 
-- 💬 Ask me about **Programming, Machine Learning**
+- 💬 Ask me about **Product Management,Machine Learning,Analytics,Design, ECE and Strategies**
 
 - 📫 Reach out to me at **aprameyacv01@gmail.com**
 
