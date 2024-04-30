@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aprameya_cv1" target="blank"><img src="https://img.shields.io/twitter/follow/aprameya_cv1?logo=twitter&style=for-the-badge" alt="aprameya_cv1" /></a> </p>
 
-- I'm a **Passionate Data and Business Analyst and Product Enthusiast**
+- I'm a **Passionate Data Enthusiast**
 
 - I'm currently learning **Data Science and LLMs**
 
-- 💬 Ask me about **Analytics, Python and ML**
+- 💬 Ask me about **Analytics, Python, ML and Product Management**
 
 - 📫 How to reach me **aprameyacv01@gmail.com**
 
