@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aprameya_cv1" target="blank"><img src="https://img.shields.io/twitter/follow/aprameya_cv1?logo=twitter&style=for-the-badge" alt="aprameya_cv1" /></a> </p>
 
-- I'm a **Passionate Data Enthusiast**
+- I'm a **Passionate Product and Analytics Enthusiast**
 
 - I'm currently learning **Data Science and LLMs**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **aprameyacv01@gmail.com**
 
-- ⚡ Fun fact **It's Github, Not Instagram!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
