@@ -17,8 +17,8 @@
 ---
 
 🔍 **About Me**  
-- 🧠 I'm an **AI + Product Enthusiast** with an academic background in **ECE** and hands-on experience in **GenAI**, **Data Analytics**, and **Cloud**.  
-- 🌱 Currently learning **LLMs**, **LangChain**, and **OCI AI Suite**.    
+- 🧠 I'm an **AI + Product Enthusiast** with an academic background in **ECE** and hands-on experience in **GenAI**, **ML**, and **Cloud**.  
+- 🌱 Currently learning **LLMs**, **Agents** and **Generative AI**.    
 - ✍️ I write about AI, Product Thinking, and Tech Career Planning on [Medium](https://medium.com/@aprameyacv01).  
 - 🧩 Open to collaborations in **GenAI projects**, **data stories**, or **cloud product builds**.  
 
@@ -27,7 +27,7 @@
 ### 🛠️ Skills & Tech Stack  
 **Languages**: Python, SQL, C/C++, MATLAB  
 **AI/DS**: Pandas, Numpy, Scikit-Learn, Seaborn, TensorFlow, LangChain, LLMs  
-**Cloud & Tools**: Oracle Cloud (OCI), DevOps, Git, MongoDB, MySQL  
+**Cloud & Tools**: Oracle Cloud (OCI), Docker, Kubernetes, Virtualization, DevOps, Git, MongoDB, MySQL  
 **Analytics**: Product Analytics, Data Visualization, Market Analysis, Metrics Design  
 **Other Interests**: Product and Strategy
 
