@@ -27,9 +27,9 @@
 ### 🛠️ Skills & Tech Stack  
 **Languages**: Python, SQL, C/C++, MATLAB  
 **AI/DS**: Pandas, Numpy, Scikit-Learn, Seaborn, TensorFlow, LangChain, LLMs  
-**Cloud & Tools**: Oracle Cloud (OCI), DevOps, Git, Figma, React, MongoDB, MySQL  
+**Cloud & Tools**: Oracle Cloud (OCI), DevOps, Git, MongoDB, MySQL  
 **Analytics**: Product Analytics, Data Visualization, Market Analysis, Metrics Design  
-**Other Interests**: Competitive exams, Edu-tech, Science Communication, Strategy
+**Other Interests**: Product and Strategy
 
 ---
 
