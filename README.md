@@ -40,3 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprameya-c-v&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+🌐 Connect With Me
+<p align="left"> <a href="https://twitter.com/aprameya_cv1" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="32"/></a> <a href="https://linkedin.com/in/aprameyacv" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32"/></a> <a href="https://medium.com/@aprameyacv01" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="32"/></a> </p>
