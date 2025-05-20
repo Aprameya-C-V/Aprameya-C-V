@@ -19,17 +19,56 @@
 🔍 **About Me**  
 - 🧠 I'm an **AI + Product Enthusiast** with an academic background in **ECE** and hands-on experience in **GenAI**, **ML**, and **Cloud**.  
 - 🌱 Currently learning **LLMs**, **Agents** and **Generative AI**.    
-- ✍️ I write about AI, Product Thinking, and Tech Career Planning on [Medium](https://medium.com/@aprameyacv01).  
+- ✍️ I write about AI, Product Thinking, and Tech Career Planning on [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aprameyacv01).  
 - 🧩 Open to collaborations in **GenAI projects**, **data stories**, or **cloud product builds**.  
 
 ---
 
+### 🚀 My Projects
+### Project Title 1
+Short description of the project goals, technologies used, and your role.
+[View Project](link-to-your-project)
+
+### Project Title 2
+Short description of the project goals, technologies used, and your role.
+[View Project](link-to-your-project)
+
+### Project Title 3
+Short description of the project goals, technologies used, and your role.
+[View Project](link-to-your-project)
+
+---
+
 ### 🛠️ Skills & Tech Stack  
-**Languages**: Python, SQL, C/C++, MATLAB  
-**AI/DS**: Pandas, Numpy, Scikit-Learn, Seaborn, TensorFlow, LangChain, LLMs  
-**Cloud & Tools**: Oracle Cloud (OCI), Docker, Kubernetes, Virtualization, DevOps, Git, MongoDB, MySQL  
-**Analytics**: Product Analytics, Data Visualization, Market Analysis, Metrics Design  
-**Other Interests**: Product and Strategy
+**Languages**:
+  - <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="16" height="16" /> Python
+  - SQL
+  - C/C++
+  - MATLAB
+**AI/DS**:
+  - Pandas
+  - Numpy
+  - Scikit-Learn
+  - Seaborn
+  - TensorFlow
+  - <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="16" height="16" /> LangChain
+  - <img src="https://static-00.iconduck.com/assets.00/brain-icon-2048x1905-j1j4373x.png" alt="LLMs" width="16" height="16" /> LLMs
+**Cloud & Tools**:
+  - Oracle Cloud (OCI)
+  - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="16" height="16" /> Docker
+  - <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="16" height="16" /> Kubernetes
+  - Virtualization
+  - DevOps
+  - Git
+  - MongoDB
+  - MySQL
+**Analytics**:
+  - Product Analytics
+  - Data Visualization
+  - Market Analysis
+  - Metrics Design
+**Other Interests**:
+  - Product and Strategy
 
 ---
 
@@ -43,4 +82,14 @@
 ---
 
 🌐 Connect With Me
-<p align="left"> <a href="https://twitter.com/aprameya_cv1" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="32"/></a> <a href="https://linkedin.com/in/aprameyacv" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32"/></a> <a href="https://medium.com/@aprameyacv01" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="32"/></a> </p>
+<p align="left">
+  <a href="https://twitter.com/aprameya_cv1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aprameyacv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@aprameyacv01" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
