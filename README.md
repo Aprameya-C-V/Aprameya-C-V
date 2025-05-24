@@ -20,7 +20,7 @@
 
 ### 🔎 About Me
 
-💼 **Project Intern [Upcoming Cloud Solution Engineer at Oracle**  
+💼 **Project Intern [Upcoming Cloud Solution Engineer] at Oracle**  
 🎓 Final Year Undergraduate in **Electronics & Communication Engineering**  
 🚀 Passionate about building with **GenAI, LLMs, Cloud, and Data**  
 🧠 Currently exploring **Agents**, **LLMOps**, and **Product Strategy**  
