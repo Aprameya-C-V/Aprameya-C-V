@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">👋 Hey there, I'm Aprameya</h1>
-<h3 align="center">Oracle | Final Year ECE @ JSSSTU | AI & Product Builder</h3>
+<h3 align="center">Implementation Expert - AI, Oracle | BE ECE Graduate from JSSSTU | AI & Product Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aprameya-c-v&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
