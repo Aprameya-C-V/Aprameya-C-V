@@ -14,7 +14,7 @@
 
 ---
 
-I build AI infrastructure at the intersection of foundational research and production systems — GPU clusters, agentic pipelines, RAG architectures, and cloud-native MLOps that scale.
+I build AI Systems at the intersection of foundational research and production requirements — GPU clusters, agentic pipelines, AI architectures, and cloud-native MLOps that scale.
 
 **Focus:** Generative AI · AI Agents · AI Infrastructure · Data Science · DevOps and MLOps · Cloud-Native · Data Engineering
 
@@ -50,13 +50,10 @@ I build AI infrastructure at the intersection of foundational research and produ
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge&logo=llamaindex&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/vLLM-EF5B25?style=for-the-badge&logo=vllm&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-0E6655?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Ray-FF6200?style=for-the-badge&logo=ray&logoColor=white" />
 </div>
 
 **DevOps & MLOps**
@@ -68,7 +65,6 @@ I build AI infrastructure at the intersection of foundational research and produ
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF4264?style=for-the-badge&logo=argocd&logoColor=white" />
@@ -78,12 +74,12 @@ I build AI infrastructure at the intersection of foundational research and produ
 
 <div>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_DB-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_DB-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 **Data Engineering**
@@ -95,8 +91,6 @@ I build AI infrastructure at the intersection of foundational research and produ
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Dask-0593C1?style=for-the-badge&logo=dask&logoColor=white" />
 </div>
 
 ---
