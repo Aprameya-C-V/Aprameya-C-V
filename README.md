@@ -1,101 +1,104 @@
-<!-- GitHub Profile README -->
+<h1 align="center">Aprameya C V</h1>
 
-<h1 align="center">👋 Hey there, I'm Aprameya</h1>
-<h3 align="center">Implementation Expert - AI, Oracle | BE ECE Graduate from JSSSTU | AI & Product Builder</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aprameya-c-v&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <a href="https://twitter.com/aprameya_cv1" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/aprameya_cv1?style=flat-square&logo=twitter" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/aprameyacv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" />
-  </a>
-  <a href="mailto:aprameyacv01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aprameya-c-v&label=Profile%20Views&color=0e75b6&style=flat" />
+  &nbsp;
+  <a href="https://twitter.com/aprameya_cv1"><img src="https://img.shields.io/twitter/follow/aprameya_cv1?style=flat-square&logo=twitter" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aprameyacv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  &nbsp;
+  <a href="/cdn-cgi/l/email-protection#c9a8b9bba8a4acb0a8aabff9f889aea4a8a0a5e7aaa6a4"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## About Me 
+I build AI infrastructure at the intersection of foundational research and production systems — GPU clusters, agentic pipelines, RAG architectures, and cloud-native MLOps that scale.
 
-I'm a passionate **AI & Product Builder** currently working at **Oracle**, and wrapping up my degree in **Electronics & Communication Engineering (ECE)** from **JSSSTU**. 
-
-I love building intelligent systems powered by:
--  **Large Language Models (LLMs)**
--  **AI Agents**
--  **Data Science & Machine Learning**
--  **Computer Vision & NLP**
-
-Beyond the models, I care about turning ideas into real-world products — from concept to deployment — with clean interfaces and scalable architecture.
+**Focus:** Generative AI · AI Agents · AI Infrastructure · Data Science · DevOps and MLOps · Cloud-Native · Data Engineering
 
 ---
 
-## 🛠️ What I Build
+## What I Ship
 
-- End-to-end applications using LLMs and AI  
-- Data-driven dashboards and tools  
-- Deployed ML models as APIs and web apps  
-- Automations, pipelines, and intelligent agents
+**🚀 Enterprise AI**
+- Production AI platforms deployable across major cloud providers with minimal friction
+- Intelligent AI applications powered by fundamental NLP, AI Design Principles and scalable API infrastructure
 
----
+**🧠 AI Infrastructure**
+- High-performance configuration optimized for large-scale model training and inference
+- Agentic and RAG architectures designed for production reliability and scale
 
-# Tech Stack
+**☁️ Cloud & Systems**
+- Low-latency AI backends and container-orchestrated microservices on cloud-native infrastructure
+- Automated, reproducible environments that turn complex provisioning into one-click deployments
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a> <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-
-## LLM & AI/ML Frameworks 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-## Data Science & Analysis 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
-
-
-## Languages & Scripting 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-
-## Web Development / UI Tools 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-## DevOps, Databases & Deployment 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-
-## Tools & Utilities 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+**⚙️ MLOps / LLMOps**
+- End-to-end model lifecycle pipelines covering deployment, monitoring, and continuous retraining
+- Evaluation frameworks and security audits that keep models performant, safe, and compliant
 
 ---
 
+## 🛠️ Stack
+
+**GenAI & Data Science**
+
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge&logo=llamaindex&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/vLLM-EF5B25?style=for-the-badge&logo=vllm&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-0E6655?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Ray-FF6200?style=for-the-badge&logo=ray&logoColor=white" />
+</div>
+
+**DevOps & MLOps**
+
+<div>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF4264?style=for-the-badge&logo=argocd&logoColor=white" />
+</div>
+
+**Cloud Native**
+
+<div>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_DB-FF0000?style=for-the-badge&logo=oracle&logoColor=white" />
+</div>
+
+**Data Engineering**
+
+<div>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Dask-0593C1?style=for-the-badge&logo=dask&logoColor=white" />
+</div>
+
+---
+
+<p align="center"><i>Building at the edge of what AI infrastructure can do — one deployed system at a time.</i></p>
