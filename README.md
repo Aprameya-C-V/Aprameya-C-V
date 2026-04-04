@@ -47,7 +47,6 @@ AI Engineer at Oracle Cloud's LIFT EMEA team. I build production AI systems — 
 |---|---|
 | Advanced GenAI Engineering | Advanced RAG patterns, agentic evaluation, LLMOps at scale |
 | DevOps / MLOps / AIOps | CI/CD pipelines, model lifecycle automation, infrastructure as code |
-| DSA | Neetcode 150 — no AI assist, rebuilding raw problem-solving fluency |
 
 ---
 
