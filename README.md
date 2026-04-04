@@ -52,7 +52,7 @@ AI Engineer at Oracle Cloud's LIFT EMEA team. I build production AI systems — 
 
 ## Background
 
-**B.E. Electronics & Communication Engineering** — SJCE, 2025 · CGPA 8.93 · Gold Medalist · Perfect 10 SGPA in 7th semester
+**B.E. Electronics & Communication Engineering** — SJCE, 2025 · CGPA 8.93 · Gold Medalist
 
 ---
 
