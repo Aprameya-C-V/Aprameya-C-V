@@ -1,40 +1,30 @@
 # Aprameya C V
 
-AI Engineer building production AI systems across agentic workflows, GPU inference, cloud infrastructure, and scalable DevOps.
+**AI Engineer | Cloud Engineering – AI at Oracle** · Bengaluru, India
 
-## What I Work On
+I build and deploy agentic and generative AI systems on cloud infrastructure, from model fine-tuning to production serving. At Oracle I work with customers across EMEA on OCI, and I am the Subject Matter Expert for OCI Enterprise AI and Oracle AI Database Private Agent Factory.
 
-- Production-grade generative AI and agentic AI systems
-- Multi-agent platforms, RAG pipelines, and LLM orchestration
-- GPU inference optimization and model serving
-- Cloud-native deployments on OCI, Kubernetes, and Terraform
-- AI infrastructure, observability, and automation
+[LinkedIn](https://www.linkedin.com/in/aprameyacv/) · [Portfolio](https://aprameyacv.site) · [Email](mailto:aprameyacv01@gmail.com)
 
-## Current Focus
+## Featured work
 
-- Building AI systems that move from prototype to production reliably
-- Designing scalable cloud and platform workflows for internal and client-facing use cases
-- Exploring voice AI, multi-modal systems, and infrastructure-first AI engineering
+| Project | What it is | Stack |
+|---|---|---|
+| [**pramana**](https://github.com/Aprameya-C-V/pramana) | Open-source decision models (Pramana-2B and 0.8B) that return a probability for every option plus a separate confidence score. 0.80 accuracy on the 2,000-decision Typed Decisions benchmark, 0.038 confidence calibration error. | LoRA fine-tuning, Hugging Face, Python |
+| [**agentic-supply-chain-operations-platform**](https://github.com/Aprameya-C-V/agentic-supply-chain-operations-platform) | Five-stage multi-agent platform (inventory, forecasting, procurement, negotiation, logistics) in one auditable workflow, with a natural-language control room and an evaluation harness. | LangGraph, Deep Agents, FastAPI |
+| [**edge-ai-inference-engine-k3s**](https://github.com/Aprameya-C-V/edge-ai-inference-engine-k3s) | Quantized vision-language model serving behind an OpenAI-compatible API on K3s, with Prometheus metrics driving Kubernetes autoscaling. | llama.cpp, K3s, Helm, Prometheus |
+| [**autonomous-clinical-data-pipeline**](https://github.com/Aprameya-C-V/autonomous-clinical-data-pipeline) | Agentic pipeline that ingests HL7v2 and FHIR R4 data and maps diagnoses to ICD-10-CM and SNOMED-CT. | Python, DuckDB, agents |
 
-## Featured Projects
+## What I work with
 
-- [agentic-supply-chain-operations-platform](https://github.com/Aprameya-C-V/agentic-supply-chain-operations-platform)  
-  Multi-agent supply chain decisioning platform built with LangGraph, Deep Agents, FastAPI, React, MLflow, and ClickHouse.
+- **Agents:** ADK, LangGraph, LangChain, Deep Agents, OpenAI SDK, MCP
+- **Models:** LoRA fine-tuning, RAG and vector search, CUDA and GPU inference, model serving
+- **Cloud:** AWS, Google Cloud, OCI
+- **DevOps:** Linux, Docker, Kubernetes, Helm, Terraform, CI/CD, Prometheus
+- **Languages:** Python, TypeScript, SQL
 
-- [autonomous-clinical-data-pipeline](https://github.com/Aprameya-C-V/autonomous-clinical-data-pipeline)  
-  Agentic clinical data pipeline for HL7v2 and FHIR R4 ingestion, semantic ICD-10-CM and SNOMED-CT mapping, and DuckDB analytics.
+## Recognition
 
-- [edge-ai-inference-engine-k3s](https://github.com/Aprameya-C-V/edge-ai-inference-engine-k3s)  
-  Production-oriented edge AI serving stack with OpenAI-compatible inference, Prometheus telemetry, and Kubernetes autoscaling.
-
-## Core Stack
-
-- AI and ML: Python, OpenAI SDK, LangChain, LangGraph, FastAPI, MLflow
-- Cloud and DevOps: OCI, AWS, Kubernetes, Docker, Terraform, Helm, Prometheus
-- Systems: CUDA, GPU inference optimization, vector search, model serving, observability
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/aprameyacv](https://www.linkedin.com/in/aprameyacv/)
-- GitHub: [github.com/Aprameya-C-V](https://github.com/Aprameya-C-V)
-- Email: [aprameyacv01@gmail.com](mailto:aprameyacv01@gmail.com)
+- EMEA Regional Winner and Global Top 15, Oracle internal hackathon (150+ teams)
+- Mastery Award, EMEA TE Recognition Program
+- Gold Medal, B.E. Electronics and Communication Engineering, JSS Science and Technology University
