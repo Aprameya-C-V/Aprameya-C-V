@@ -22,9 +22,3 @@ I build and deploy agentic and generative AI systems on cloud infrastructure, fr
 - **Cloud:** AWS, Google Cloud, OCI
 - **DevOps:** Linux, Docker, Kubernetes, Helm, Terraform, CI/CD, Prometheus
 - **Languages:** Python, TypeScript, SQL
-
-## Recognition
-
-- EMEA Regional Winner and Global Top 15, Oracle internal hackathon (150+ teams)
-- Mastery Award, EMEA TE Recognition Program
-- Gold Medal, B.E. Electronics and Communication Engineering, JSS Science and Technology University
